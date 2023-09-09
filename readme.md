@@ -1,0 +1,1 @@
+This is a simple Octree Based pointcloud downsampler made in a little over an hour as an application to NOVA at UTD. It is fed a CSV titled input.csv which has 3 columns representing x, y, and z coordinates. It features a configurable level of output detail which can be used to generate fine or coarse results. 
